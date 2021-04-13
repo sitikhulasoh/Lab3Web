@@ -6,14 +6,14 @@
 ## membuat list file baru dengan nama lab3_list.html
 1. tulislah codingan yang sudah tertera untuk membuat ordered list kemudian buka chrome untuk melihat hasil dari codingan trsbt.
 ![1a (2)](https://user-images.githubusercontent.com/56240533/114531162-d7c43980-9c75-11eb-85d9-3df6edfee53b.png)!
-2. untuk membuat unordered list tulislah kembali codingnya setelaha itu refresh untuk menampilkan hasil barunya
-[2a (2)](https://user-images.githubusercontent.com/56240533/114531300-faeee900-9c75-11eb-9c61-1d36233ea8dc.png)
-3. kemudian membuat description list, setelah itu refresh kembali untuk menampilkan hasilnya 
+2. untuk membuat unordered list tulislah kembali codingnya setelah itu refresh untuk menampilkan hasil barunya.
+![2a (2)](https://user-images.githubusercontent.com/56240533/114533071-b7957a00-9c77-11eb-9b64-0e080d372664.png)
+3. kemudian membuat description list, setelah itu refresh kembali untuk menampilkan hasilnya.
 ![3a (2)](https://user-images.githubusercontent.com/56240533/114531532-2eca0e80-9c76-11eb-987e-77e589df67ba.png)
 
 ## membuat file tabel dengan nama lab3_tabel.html
-1 buatlah tabel lalu  atur margin , padding dan spacing dengan menggunakan syntax <table bordir= " " cellpadding=" " cellspacing=" ">
-[4a (2)](https://user-images.githubusercontent.com/56240533/114532030-a13aee80-9c76-11eb-98e3-8c818e53fd59.png)
+1 buatlah table lalu  atur margin , padding dan spacing dengan menggunakan syntax <table bordir= " " cellpadding=" " cellspacing=" ">
+![4a (2)](https://user-images.githubusercontent.com/56240533/114532975-9896e800-9c77-11eb-88b3-d1c41e7b818e.png)
 2. kemudian gabungkan sel data sengan menambah syntax rowspan =  " "
 ![5a (2)](https://user-images.githubusercontent.com/56240533/114532110-b9127280-9c76-11eb-9602-15b3e7deb308.png)
 
