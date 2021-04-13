@@ -29,4 +29,7 @@
  
  1.syntax untuk membuat  inputan berupa pilihan dengan tampilan drop down.
  ![tugas 3a (2)](https://user-images.githubusercontent.com/56240533/114530803-7bf9b080-9c75-11eb-82bd-a87447d17d60.png)
+ 2. syntax  untuk membuat inputan berupa lisbox selection
+ ![terakhir (2)](https://user-images.githubusercontent.com/56240533/114565297-567f9d80-9c9b-11eb-8873-706e3cad12d9.png)
+
 
